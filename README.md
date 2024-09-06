@@ -1,2 +1,3 @@
 # LAB_TASK_6
-ASSEMBLY LANGUAGE PROGRAMMING | BSCS-403 | UBIT.
+->Program to print an array using Loop.
+->Program to input string and print it.
